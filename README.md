@@ -4,19 +4,6 @@ A fully functional and visually clean **Authentication System** built with **Rea
 
 ---
 
-## 📸 Screenshots
-
-### 🔐 Login Page
-![Login Page](https://your-login-screenshot-link.com)
-
-### 📝 Signup Page
-![Signup Page](https://your-signup-screenshot-link.com)
-
-### 🔁 Reset Password
-![Reset Page](https://your-reset-screenshot-link.com)
-
----
-
 ## 🛠️ Tech Stack
 
 | Technology     | Description                         |
@@ -83,5 +70,5 @@ If you find bugs or want to improve the UI or features, feel free to open an iss
 **Satyam Singh**
 Full Stack Developer | AI/ML Enthusiast | UI/UX Designer
 
-🔗[Github]([text](https://github.com/Satyam-2003/Satyam-2003))
-💼[LinkedIn]([text](https://www.linkedin.com/in/satyam2001singh))
+🔗[Github](https://github.com/Satyam-2003/Satyam-2003)
+💼[LinkedIn](https://www.linkedin.com/in/satyam2001singh))
